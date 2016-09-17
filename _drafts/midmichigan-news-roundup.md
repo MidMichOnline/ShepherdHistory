@@ -10,5 +10,10 @@ published: false
 wide_assets:
   - ""
 tags: [ ]
-categories: [ ]
+categories:
+  - Mid Michigan News
 ---
+<ul>
+ 	<li>[rounduplink id="175" title="Isabella County increases water patrol numbers in 2016Edit"]</li>
+ 	<li>[rounduplink id="174" title="Former dispensary owner from Mt. Pleasant weighs in on state medical marijuana billEdit"]</li>
+</ul>
