@@ -9,7 +9,7 @@ permalink: >
   http://www.shepherdhistory.org/question-archive/
 published: true
 wide_assets:
-  - ""
+  - 'a:1:{i:0;s:0:"";}'
 tags: [ ]
 categories: [ ]
 ---

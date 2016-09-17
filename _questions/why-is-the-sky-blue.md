@@ -9,13 +9,15 @@ permalink: >
   http://www.shepherdhistory.org/blog/question/why-is-the-sky-blue/
 published: true
 q_subscriber:
-  - 'a:1:{i:0;i:0;}'
+  - 'a:1:{i:0;s:14:"a:1:{i:0;i:0;}";}'
 wide_assets:
-  - ""
+  - 'a:1:{i:0;s:0:"";}'
 qa_question_status:
-  - processing
+  - 'a:1:{i:0;s:10:"processing";}'
 qa_view_count:
-  - "2"
+  - 'a:1:{i:0;s:1:"2";}'
+qa_meta_best_answer:
+  - ""
 tags: [ ]
 categories: [ ]
 ---
