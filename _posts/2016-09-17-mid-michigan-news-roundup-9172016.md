@@ -2,13 +2,16 @@
 ID: 149
 post_title: Mid Michigan News Roundup 9/17/2016
 author: Jon Morgan
-post_date: 2016-09-17 15:59:32
+post_date: 2016-09-17 16:04:54
 post_excerpt: ""
 layout: post
-permalink: 'http://www.shepherdhistory.org?p=149&preview=true&preview_id=149'
-published: false
+permalink: >
+  http://www.shepherdhistory.org/blog/mid-michigan-news-roundup-9172016/
+published: true
 wide_assets:
   - ""
+custom_sidebar:
+  - none
 tags: [ ]
 categories:
   - Uncategorized
@@ -21,6 +24,6 @@ categories:
 <p class="title entry-title cleanprint-title"><a href="http://www.themorningsun.com/general-news/20160917/former-dispensary-owner-from-mt-pleasant-weighs-in-on-state-medical-marijuana-bill">Former dispensary owner from Mt. Pleasant weighs in on state medical marijuana bill</a></p>
 </li>
  	<li>
-<p class="title entry-title cleanprint-title">Isabella County increases water patrol numbers in 2016</p>
+<p class="title entry-title cleanprint-title"><a href="http://www.themorningsun.com/general-news/20160917/isabella-county-increases-water-patrol-numbers-in-2016">Isabella County increases water patrol numbers in 2016</a></p>
 </li>
 </ul>
