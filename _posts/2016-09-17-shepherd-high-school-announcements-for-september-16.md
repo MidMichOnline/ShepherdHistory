@@ -18,6 +18,7 @@ top_term:
   - "1"
 tags: [ ]
 categories:
+  - Schools
   - Uncategorized
 ---
 <em>From the <a href="https://www.facebook.com/shepherdmihs/?fref=nf">Shepherd High School</a></em>
