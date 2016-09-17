@@ -12,6 +12,6 @@ wide_assets:
 tags: [ ]
 categories: [ ]
 ---
-From the Central Michigan Area Concert Band:
+<em>From the <a href="https://www.facebook.com/cmacb1/">Central Michigan Area Concert Band</a>:</em>
 
 Join us as we play for Mid Michigan Community College's annual Fall Festival fundraiser.
