@@ -18,6 +18,10 @@ tags: [ ]
 categories:
   - Schools
 ---
+[caption id="" align="alignnone" width="960"]<img class="size-medium" src="https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/14358745_1206009729455924_6233142009203862311_n.jpg?oh=c3a81849ca261c50de40bb997a733aa4&amp;oe=5882D819" alt="Source: Shepherd Bluejay Band Boosters/Facebook" width="960" height="720" /> Source: Shepherd Bluejay Band Boosters/Facebook[/caption]
+
+&nbsp;
+
 The <a href="https://www.facebook.com/Shepherd-Bluejay-Band-Boosters-139962909393950/">Shepherd Bluejay Band Boosters</a> posted photos today showing the members of the Shepherd High school band performing during the CMU football game.
 
 A <a href="https://www.facebook.com/permalink.php?story_fbid=1206009799455917&amp;id=139962909393950">number of photos have been posted on their Facebook page</a>.
