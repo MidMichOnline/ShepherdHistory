@@ -14,7 +14,7 @@ custom_sidebar:
   - none
 tags: [ ]
 categories:
-  - Uncategorized
+  - Mid Michigan News
 ---
 <ul>
  	<li>
