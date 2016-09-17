@@ -13,3 +13,9 @@ tags: [ ]
 categories:
   - Uncategorized
 ---
+<ul>
+ 	<li>
+<p class="title entry-title cleanprint-title"><a href="http://www.themorningsun.com/general-news/20160916/neighbors-alert-residents-to-house-fire-in-mt-pleasant">Neighbors alert residents to house fire in Mt. Pleasant</a></p>
+</li>
+ 	<li></li>
+</ul>
