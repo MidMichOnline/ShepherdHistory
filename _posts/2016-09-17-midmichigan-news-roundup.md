@@ -4,9 +4,9 @@ post_title: MidMichigan News Roundup
 author: Jon Morgan
 post_date: 2016-09-17 18:20:24
 post_excerpt: ""
-layout: roundup
+layout: post
 permalink: >
-  http://www.shepherdhistory.org/blog/roundup/midmichigan-news-roundup/
+  http://www.shepherdhistory.org/blog/midmichigan-news-roundup/
 published: true
 wide_assets:
   - ""
