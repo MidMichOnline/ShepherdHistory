@@ -12,3 +12,6 @@ wide_assets:
 tags: [ ]
 categories: [ ]
 ---
+From the Central Michigan Area Concert Band:
+
+Join us as we play for Mid Michigan Community College's annual Fall Festival fundraiser.
