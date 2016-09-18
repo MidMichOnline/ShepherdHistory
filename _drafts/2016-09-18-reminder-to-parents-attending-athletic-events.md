@@ -13,5 +13,9 @@ wide_assets:
   - ""
 tags: [ ]
 categories:
-  - Uncategorized
+  - Community
+  - Schools
+  - Sports
 ---
+From Shepherd Blue Jay Football:
+<blockquote>Parents: Please be reminded that your role is to cheer on the team and represent our community in a positive way. Let the players play, the coaches coach, and t<span class="text_exposed_show">he officials officiate. While most parents are great examples of this, I am embarrassed by the behavior of some at last night's game. Understand, this behavior reflects on all of us. Please represent our team, program, and community with PRIDE. Let's be better this week! GO BLUE!!</span></blockquote>
