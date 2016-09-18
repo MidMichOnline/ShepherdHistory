@@ -14,18 +14,12 @@ custom_sidebar:
   - none
 top_term:
   - "46"
+featured_media:
+  - 'a:6:{s:4:"type";s:10:"embed-code";s:5:"title";s:0:"";s:7:"caption";s:0:"";s:6:"credit";s:47:"Source; Shepherd Bluejay Band Boosters/Facebook";s:3:"url";s:0:"";s:5:"embed";s:299:"<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3D1206022486121315%26id%3D139962909393950&width=500" width="500" height="668" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>";}'
 tags: [ ]
 categories:
   - Schools
 ---
-[caption id="" align="alignnone" width="960"]<img class="size-medium" src="https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/14358745_1206009729455924_6233142009203862311_n.jpg?oh=c3a81849ca261c50de40bb997a733aa4&amp;oe=5882D819" alt="Source: Shepherd Bluejay Band Boosters/Facebook" width="960" height="720" /> Source: Shepherd Bluejay Band Boosters/Facebook[/caption]
-
-&nbsp;
-
-The <a href="https://www.facebook.com/Shepherd-Bluejay-Band-Boosters-139962909393950/">Shepherd Bluejay Band Boosters</a> posted photos today showing the members of the Shepherd High school band performing during the CMU football game.
-
-A <a href="https://www.facebook.com/permalink.php?story_fbid=1206009799455917&amp;id=139962909393950">number of photos have been posted on their Facebook page</a>.
-
-It was a part of Band Day at CMU.
+On Sunday, the Shepherd High School Marching band performed during CMU's Football game as a part of the university's Band Day. The <a href="https://www.facebook.com/Shepherd-Bluejay-Band-Boosters-139962909393950/">Shepherd Bluejay Band Boosters</a> posted photos a <a href="https://www.facebook.com/permalink.php?story_fbid=1206009799455917&amp;id=139962909393950">number of photos have been posted on its Facebook page</a>.
 
 If anybody has more information to share, or photos, please share <a href="http://www.shepherdhistory.org/contribute/">updates using the Contribution page here</a>.
