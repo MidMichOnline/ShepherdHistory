@@ -13,7 +13,7 @@ wide_assets:
 custom_sidebar:
   - none
 top_term:
-  - "1"
+  - "24"
 tags: [ ]
 categories:
   - Shepherd Digests
