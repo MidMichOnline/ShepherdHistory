@@ -13,4 +13,6 @@ tags: [ ]
 categories:
   - Uncategorized
 ---
-From Shepherd CrossCountry
+From <a href="https://www.facebook.com/shepherd.crosscountry">Shepherd CrossCountry</a>:
+
+Lots going on today! Pictures of Kaylie Jo Rhynard and a few of her GVSU team mates. Then our races. Sorry to the boys JV race which happened right after Girls varsity and the Boys MS which happened during the Varsity Boys awards. Tried to take as many as possible but missed some.
