@@ -9,6 +9,8 @@ permalink: 'http://www.shepherdhistory.org/?post_type=event&p=391'
 published: false
 wide_assets:
   - ""
+afap_auto_post:
+  - 'no'
 tags: [ ]
 categories: [ ]
 ---
