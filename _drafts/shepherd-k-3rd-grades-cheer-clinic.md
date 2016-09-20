@@ -1,6 +1,6 @@
 ---
 ID: 391
-post_title: ""
+post_title: Shepherd K-3rd grades Cheer Clinic
 author: Jon Morgan
 post_date: 2016-09-20 22:08:31
 post_excerpt: ""
