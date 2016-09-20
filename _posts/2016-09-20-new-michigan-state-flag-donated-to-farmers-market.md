@@ -36,6 +36,7 @@ tags: [ ]
 categories:
   - Community
   - Facebook
+  - TSD-09192016
 ---
 As reported by the Shepherd Police Department, a brand-new State of Michigan flag was given to Blake Klumpp today by the Drozd Family. This flag replaces the previous one which was given to him by Speaker of the House Kevin Cotter.
 
