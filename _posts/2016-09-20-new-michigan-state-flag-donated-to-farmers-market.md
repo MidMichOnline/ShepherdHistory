@@ -5,8 +5,9 @@ author: Jon Morgan
 post_date: 2016-09-20 01:18:03
 post_excerpt: ""
 layout: post
-permalink: 'http://www.shepherdhistory.org?p=337&preview=true&preview_id=337'
-published: false
+permalink: >
+  http://www.shepherdhistory.org/blog/new-michigan-state-flag-donated-to-farmers-market/
+published: true
 wide_assets:
   - ""
 afap_auto_post:
