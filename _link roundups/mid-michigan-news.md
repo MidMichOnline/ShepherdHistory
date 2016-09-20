@@ -16,6 +16,7 @@ tags: [ ]
 categories:
   - Mid Michigan News
   - Morning Sun Articles
+  - TSD-09192016
 ---
 [rounduplink id="345" title="Fire destroys Edmore buildingEdit"]
 
