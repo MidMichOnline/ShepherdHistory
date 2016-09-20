@@ -16,9 +16,12 @@ afap_auto_post:
   - 'no'
 custom_sidebar:
   - none
+top_term:
+  - "56"
 tags: [ ]
 categories:
   - Schools
+  - Shepherd High School
   - Sports
   - TSD-09212016
 ---
