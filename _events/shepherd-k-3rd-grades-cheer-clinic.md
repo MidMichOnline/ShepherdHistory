@@ -2,11 +2,12 @@
 ID: 391
 post_title: Shepherd K-3rd grades Cheer Clinic
 author: Jon Morgan
-post_date: 2016-09-20 22:08:31
+post_date: 2016-09-20 22:13:30
 post_excerpt: ""
 layout: event
-permalink: 'http://www.shepherdhistory.org/?post_type=event&p=391'
-published: false
+permalink: >
+  http://www.shepherdhistory.org/event/shepherd-k-3rd-grades-cheer-clinic/
+published: true
 wide_assets:
   - ""
 afap_auto_post:
