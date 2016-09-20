@@ -1,6 +1,6 @@
 ---
 ID: 346
-post_title: Mid Michigan News
+post_title: Mid Michigan News Roundup 9/20/2016
 author: Jon Morgan
 post_date: 2016-09-20 02:04:38
 post_excerpt: ""
