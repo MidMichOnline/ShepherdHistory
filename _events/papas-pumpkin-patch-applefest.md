@@ -2,13 +2,16 @@
 ID: 406
 post_title: Papas Pumpkin Patch Applefest
 author: Jon Morgan
-post_date: 2016-09-20 22:40:20
+post_date: 2016-09-20 22:43:27
 post_excerpt: ""
 layout: event
-permalink: 'http://www.shepherdhistory.org/?post_type=event&p=406'
-published: false
+permalink: >
+  http://www.shepherdhistory.org/event/papas-pumpkin-patch-applefest/
+published: true
 wide_assets:
   - ""
+afap_auto_post:
+  - 'no'
 tags: [ ]
 categories: [ ]
 ---
