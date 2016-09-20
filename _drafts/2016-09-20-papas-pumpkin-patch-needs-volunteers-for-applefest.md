@@ -1,6 +1,8 @@
 ---
 ID: 404
-post_title: Volunteers needed for Applefest
+post_title: >
+  Papas Pumpkin Patch needs volunteers for
+  Applefest
 author: Jon Morgan
 post_date: 2016-09-20 22:36:43
 post_excerpt: ""
