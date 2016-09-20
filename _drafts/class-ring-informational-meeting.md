@@ -9,7 +9,9 @@ permalink: 'http://www.shepherdhistory.org/?post_type=event&p=383'
 published: false
 wide_assets:
   - ""
+afap_auto_post:
+  - 'yes'
 tags: [ ]
 categories: [ ]
 ---
-For m
+For more information and updates see the <a href="https://www.facebook.com/shepherdmihs/?fref=nf">Shepherd High School Facebook</a> page.
