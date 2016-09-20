@@ -35,6 +35,6 @@ afap_auto_post:
 tags: [ ]
 categories:
   - Facebook
-  - Shepherd Digests
+  - TSD-09192016
 ---
 [pt_view id="8371de210j"]
