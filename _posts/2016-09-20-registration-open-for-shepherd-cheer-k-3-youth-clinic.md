@@ -4,13 +4,18 @@ post_title: >
   Registration open for Shepherd Cheer K-3
   youth clinic
 author: Jon Morgan
-post_date: 2016-09-20 22:04:55
+post_date: 2016-09-20 22:14:56
 post_excerpt: ""
 layout: post
-permalink: 'http://www.shepherdhistory.org?p=390&preview=true&preview_id=390'
-published: false
+permalink: >
+  http://www.shepherdhistory.org/blog/registration-open-for-shepherd-cheer-k-3-youth-clinic/
+published: true
 wide_assets:
   - ""
+afap_auto_post:
+  - 'no'
+custom_sidebar:
+  - none
 tags: [ ]
 categories:
   - Schools
