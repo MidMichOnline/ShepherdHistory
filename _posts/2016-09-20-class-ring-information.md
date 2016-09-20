@@ -19,6 +19,7 @@ top_term:
 tags: [ ]
 categories:
   - Schools
+  - Shepherd High School
   - TSD-09212016
 ---
 <em>From the <a href="https://www.facebook.com/shepherdmihs/?fref=nf">Shepherd High School</a>:</em>
