@@ -13,3 +13,5 @@ tags: [ ]
 categories: [ ]
 ---
 Mr. Fox, Herff Jones representative, will return on October 5th during the lunch, 11:55- AM-12:30PM so that you may place your order. They will return immediately after school, 3:00 PM and remain until 5:00 PM. If a parent would like to order their student's ring, you are welcome to attend either time.
+
+&nbsp;
