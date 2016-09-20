@@ -1,6 +1,6 @@
 ---
 ID: 401
-post_title: Shepherd High School Announcements
+post_title: Shepherd High School
 author: Jon Morgan
 post_date: 2016-09-20 22:35:14
 post_excerpt: ""
