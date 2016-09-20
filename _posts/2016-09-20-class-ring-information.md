@@ -1,6 +1,6 @@
 ---
 ID: 378
-post_title: Class Ring Information
+post_title: SHS Class Ring Information for Sophmores
 author: Jon Morgan
 post_date: 2016-09-20 21:51:49
 post_excerpt: ""
