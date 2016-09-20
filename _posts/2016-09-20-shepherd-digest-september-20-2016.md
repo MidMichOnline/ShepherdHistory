@@ -2,13 +2,18 @@
 ID: 353
 post_title: 'Shepherd Digest &#8211; September 20, 2016'
 author: Jon Morgan
-post_date: 2016-09-20 02:17:14
+post_date: 2016-09-20 02:18:23
 post_excerpt: ""
 layout: post
-permalink: 'http://www.shepherdhistory.org?p=353&preview=true&preview_id=353'
-published: false
+permalink: >
+  http://www.shepherdhistory.org/blog/shepherd-digest-september-20-2016/
+published: true
 wide_assets:
   - ""
+afap_auto_post:
+  - 'no'
+custom_sidebar:
+  - none
 tags: [ ]
 categories:
   - Shepherd Digests
