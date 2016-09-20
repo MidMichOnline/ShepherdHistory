@@ -2,15 +2,16 @@
 ID: 383
 post_title: Class Ring Informational Meeting
 author: Jon Morgan
-post_date: 2016-09-20 21:52:27
+post_date: 2016-09-20 21:57:00
 post_excerpt: ""
 layout: event
-permalink: 'http://www.shepherdhistory.org/?post_type=event&p=383'
-published: false
+permalink: >
+  http://www.shepherdhistory.org/event/class-ring-informational-meeting/
+published: true
 wide_assets:
   - ""
 afap_auto_post:
-  - 'yes'
+  - 'no'
 tags: [ ]
 categories: [ ]
 ---
