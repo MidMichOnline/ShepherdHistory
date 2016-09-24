@@ -7,8 +7,9 @@ author: Jon Morgan
 post_date: 2016-09-24 13:17:37
 post_excerpt: ""
 layout: post
-permalink: 'http://www.shepherdhistory.org?p=536&preview=true&preview_id=536'
-published: false
+permalink: >
+  http://www.shepherdhistory.org/blog/video-shares-update-on-mid-michigan-community-pathways-project/
+published: true
 wide_assets:
   - ""
 afap_auto_post:
