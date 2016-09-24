@@ -19,4 +19,4 @@ A new video released to Facebook this week shared new information about the prog
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F201158503231811%2Fvideos%2F1407480132599636%2F&amp;show_text=0&amp;width=560" width="560" height="315" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
 
-&nbsp;
+What do you think of the working being done on the walk way? Share your comments below.
